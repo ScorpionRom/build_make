@@ -17,5 +17,4 @@
 # (like "MAIN") or a branch name and a release candidate
 # (like "CRB01").  It must be a single word, and is
 # capitalized by convention.
-
-BUILD_ID=SQ1D.211205.016.A1
+BUILD_ID=SQ1D.220105.007
